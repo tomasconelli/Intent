@@ -18,4 +18,6 @@ public class MainActivity extends AppCompatActivity {
         Intent sig =  new Intent(this,MainActivity2.class);
         startActivity(sig);
     }
+
+    //prueba
 }
